@@ -46,7 +46,7 @@ ul {
 }
 .menu_item {
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 25px;
 }
 .menu_link .active {
   border-bottom: 3px solid #74e196;
@@ -150,8 +150,9 @@ ul {
   font-weight: 700;
 }
 .header .btn {
+  float: right;
   margin-top: 8px;
-  margin-left: 53px;
+  margin-left: 10px;
 }
 /* =services= */
 .services {
